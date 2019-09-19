@@ -1,3 +1,4 @@
 file add
 line 1
 линия 2
+line 3
